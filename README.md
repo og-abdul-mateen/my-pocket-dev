@@ -2,8 +2,6 @@
 
 An Android app built with **Kotlin + Jetpack Compose** that acts as an AI pair programming assistant. Paste any code snippet and get instant analysis: design flaws, refactoring suggestions with before/after diffs, and proposed test cases.
 
-Built as a Careem Senior Android Engineer application challenge (Challenge 2: The AI Pair Engineer).
-
 ## Architecture
 
 ```
@@ -36,6 +34,7 @@ Built as a Careem Senior Android Engineer application challenge (Challenge 2: Th
    ```
    CLAUDE_API_KEY=sk-ant-your-key-here
    ```
+   If you do not have your own API key, you can reach out to me via email and I can provide my key for testing purposes.
 3. Sync Gradle & run on device/emulator (API 26+)
 
 ## Features
